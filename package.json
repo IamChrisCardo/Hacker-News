@@ -1,5 +1,5 @@
 {
-  "homepage": "http://IamChrisCardo.github.io/hacker-news",
+  "homepage": "http://IamChrisCardo.github.io/Hacker-News",
   "name": "hacker-news",
   "version": "0.1.0",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "IamChrisCardo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IamChrisCardo/hacker-news"
+    "url": "https://github.com/IamChrisCardo/Hacker-News"
   },
   "license": "MIT",
   "dependencies": {
